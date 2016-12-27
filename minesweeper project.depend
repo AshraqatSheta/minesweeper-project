@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1482842482 source:c:\users\user\desktop\minesweeper project\functions.c
+	"functions.h"
+	<windows.h>
+
+1482842482 c:\users\user\desktop\minesweeper project\functions.h
+
+1482842335 source:c:\users\user\desktop\minesweeper project\leaderboard.c
+	"leaderboard.h"
+	<stdio.h>
+
+1482842335 c:\users\user\desktop\minesweeper project\leaderboard.h
+
+1482850122 source:c:\users\user\desktop\minesweeper project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"winlose.h"
+	"SaveLoad.h"
+	"leaderboard.h"
+	"functions.h"
+
+1482842335 c:\users\user\desktop\minesweeper project\winlose.h
+
+1482842335 c:\users\user\desktop\minesweeper project\saveload.h
+
+1482848873 source:c:\users\user\desktop\minesweeper project\saveload.c
+	<stdio.h>
+
+1482842335 source:c:\users\user\desktop\minesweeper project\winlose.c
+	"winlose.h"
+
+1482846082 source:c:\users\mody\desktop\minesweeper project\functions.c
+	"functions.h"
+	<windows.h>
+
+1482846082 c:\users\mody\desktop\minesweeper project\functions.h
+
+1482845935 source:c:\users\mody\desktop\minesweeper project\leaderboard.c
+	"leaderboard.h"
+	<stdio.h>
+
+1482845935 c:\users\mody\desktop\minesweeper project\leaderboard.h
+
+1482853722 source:c:\users\mody\desktop\minesweeper project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"winlose.h"
+	"SaveLoad.h"
+	"leaderboard.h"
+	"functions.h"
+
+1482845935 c:\users\mody\desktop\minesweeper project\winlose.h
+
+1482845935 c:\users\mody\desktop\minesweeper project\saveload.h
+
+1482852473 source:c:\users\mody\desktop\minesweeper project\saveload.c
+	<stdio.h>
+
+1482845935 source:c:\users\mody\desktop\minesweeper project\winlose.c
+	"winlose.h"
+
